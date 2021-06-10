@@ -3,7 +3,7 @@ Tests par viendimensiju masīviem. (Un tā testēšanas dokumentācija)
 Projekts uzsākts 07.06.2021
 
 ### Veicamie darbi
-- [ ] Izveidot Mācību materiālu par viendimensiju masīviem.
+- [x] Izveidot Mācību materiālu par viendimensiju masīviem.
 - [ ] Izveidot Prezentāciju par darba progressu un nedaudz par tēmu.
 - [ ] Izveidot programmu "Zināšanu tests par viendimensiju masīviem".
 - [ ] Izveidot testēšanas žurnālu izveidotajai programmai.
