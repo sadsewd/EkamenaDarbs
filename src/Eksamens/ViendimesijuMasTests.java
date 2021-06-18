@@ -13,11 +13,9 @@ public class ViendimesijuMasTests {
 				
 				if(pareizasAtb[i] == false){
 					System.out.println("Jautājums "+(i+1)+"."+jautajumi[i]);
-				}
-				
+			  }	
 			}
-			}
-			
+		  }
 		}
 	
 		static void tests() {
